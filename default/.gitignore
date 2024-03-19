@@ -8,3 +8,7 @@
 /.ijwb/
 /.aswb/
 /.clwb/
+
+# IDE's folders
+/.vscode
+/.idea
